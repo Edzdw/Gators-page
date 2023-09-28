@@ -24,7 +24,7 @@ const Testimonials = () => {
                 "Tôi đã đầu tư cùng Infinity từ đầu, và chúng tôi đã có hơn 10 cập nhật liên tục và đạt được nhiều thành tựu tích cực. Tôi hy vọng sẽ có thêm nhiều thành công hơn trong tương lai. "
               </span>
               <span className="person">Fury</span>
-              <span className="job">Client - Infinity EA user</span>
+              <span className="job">Client - The Gators Client User</span>
             </p>
             <img src="assets/testimonials/testimonial-2.jpg" alt="" />
           </div>
