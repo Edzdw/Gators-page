@@ -12,7 +12,7 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">To</span>
               <span className="intro animated-layer">
-                "Giải pháp thu nhập thụ động ổn định - đơn giản - đáng tin cậy"
+                "Giải pháp thu nhập thụ động ổn định - đơn giản, đáng tin cậy"
               </span>
             </span>
             <span>
