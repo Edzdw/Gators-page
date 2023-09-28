@@ -715,7 +715,7 @@ span.sign-out {
 }
 
 .about .infos ul li > span > span {
-  padding-left: 30px;
+  padding-left: 0;
 }
 
 .about .infos ul li > span > span:before {
@@ -724,7 +724,7 @@ span.sign-out {
   left: 0;
   top: 1px;
   font-size: 8px;
-  content: "\f111";
+  content: "";
 }
 
 .about .infos ul li > span > span span:first-child {
