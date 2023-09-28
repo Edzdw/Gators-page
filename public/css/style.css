@@ -2074,6 +2074,7 @@ span.sign-out {
   .about .infos ul li > span > span {
     animation-delay: initial !important;
     font-size: 14px;
+    white-space: pre-wrap;
   }
 
   header .mobile-menu {
