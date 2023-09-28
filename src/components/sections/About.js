@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                LisaBB
+                The Gators
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Nữ Hoàng Sân Khấu Điện Ảnh 2019
+                Gators Team
               </span>
             </span>
           </h2>
@@ -35,13 +35,12 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Kinh nghiệm :</span>
-                    <span>Trên 15 năm kinh nghiệm </span>
-                    <p>quản lý và điều hành doanh nghiệp</p>
+                    <p>Đừng đặt cược cảm xúc của bạn vào thị trường</p>
+                    <p>Nếu bạn không muốn nằm trong 95% người chơi thất bại</p>
                   </span>
                 </span>
               </li>
-              <li>
+              {/* <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Quốc tịch :</span>
@@ -93,7 +92,7 @@ const About = () => {
                     <span>Gương mặt truyền cảm hứng tự tin 2019</span>
                   </span>
                 </span>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
@@ -213,7 +212,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 1</h4>
+                  <h4>The Gators 1</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>10 2022</span>
@@ -230,7 +229,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 4</h4>
+                  <h4>The Gators 4</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>4 2023</span>
@@ -247,7 +246,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Infinity 2</h4>
+                  <h4>The Gators 2</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>12 2022</span>
@@ -264,7 +263,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Infinity EA</h4>
+                  <h4>The Gators EA</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2023+</span>
@@ -281,7 +280,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Infinity 3</h4>
+                  <h4>The Gators 3</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>3 2023</span>

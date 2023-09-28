@@ -87,7 +87,7 @@ const Header = () => {
         {/* FREELANCE STARTS */}
         <div className="mail">
           <p>
-            Email :<span> optikey786@gmail.com </span>
+            Email :<span> thegators.asia@gmail.com </span>
           </p>
           <span id ="log-out" class = "sign-out" >
               Logout

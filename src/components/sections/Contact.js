@@ -21,8 +21,8 @@ const Contact = () => {
           <div className="animated-layer fade-in-down-animation fadeInUp wow">
             <i className="fa fa-phone" />
             <p>
-              <span className="small-text">Số điện thoại</span>
-                0939.79.43.86
+              <span className="small-text">Contact</span>
+                Gators Team
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-                optikey786@gmail.com
+                thegators.asia@gmail.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -50,7 +50,8 @@ const Contact = () => {
           <div className="animated-layer fade-in-up-animation fadeInUp wow">
             <i className="fa fa-share-nodes" />
             <span className="small-text">Mạng xã hội</span>
-            <ul className="social">
+                Telegram: @thegators.asia
+            {/* <ul className="social">
               <li>
                 <a href="#">
                   <i className="fa-brands fa-github" />
@@ -71,7 +72,7 @@ const Contact = () => {
                   <i className="fa-brands fa-facebook" />
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </div>
           {/* CONTACT ITEM ENDS */}
         </div>
