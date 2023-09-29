@@ -699,7 +699,6 @@ span.sign-out {
 .about h2 span {
   display: block;
   overflow: hidden;
-  color: #8dff8d;
 }
 
 .about .infos {
@@ -735,7 +734,7 @@ span.sign-out {
 }
 
 .about .infos ul li > span > span span:first-child {
-  color: rgba(255, 255, 255, 0.7);
+  color: #8dff8d;
   margin-right: 7px;
 }
 
