@@ -18,7 +18,7 @@ const About = () => {
         {/* IMAGE ENDS */}
         {/* INFO STARTS */}
         <div>
-          <h2>
+          {/* <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
                 The Gators
@@ -29,14 +29,15 @@ const About = () => {
                 Gators Team
               </span>
             </span>
-          </h2>
+          </h2> */}
           <div className="infos">
             <ul>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <p>Đừng đặt cược cảm xúc của bạn vào thị trường</p>
-                    <p>Nếu bạn không muốn nằm trong 95% người chơi thất bại</p>
+                    <p>Đừng ĐẶT CƯỢC CẢM XÚC của bạn vào thị trường</p>
+                    <p>Nếu bạn không muốn nằm trong 95% NGƯỜI CHƠI THẤT BẠI.</p>
+                    <p>Hãy để THE GATORS GIÚP BẠN.</p>
                   </span>
                 </span>
               </li>
@@ -225,23 +226,7 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-            {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-up-animation fadeInUp wow">
-                <div className="experience">
-                  <h4>The Gators 4</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>4 2023</span>
-                  </p>
-                  <p>
-                    <i className="fa-regular fa-building" />
-                    <span>Giảm vị thế xấu</span>
-                  </p>
-                </div>
-              </div>
-            </li>
-            {/* TIMELINE ITEM ENDS */}
+
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
@@ -259,23 +244,7 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-            {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-up-animation fadeInUp wow">
-                <div className="education">
-                  <h4>The Gators EA</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>2023+</span>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-building-columns" />
-                    <span>Đang phát triển</span>
-                  </p>
-                </div>
-              </div>
-            </li>
-            {/* TIMELINE ITEM ENDS */}
+
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
@@ -293,7 +262,43 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-            <li />
+
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-up-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>The Gators 4</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>4 2023</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>Giảm vị thế xấu</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
+            
+            {/* TIMELINE ITEM STARTS */}
+            <li>
+              <div className="animated-layer fade-in-up-animation fadeInUp wow">
+                <div className="education">
+                  <h4>The Gators EA</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>2023+</span>
+                  </p>
+                  <p>
+                    <i className="fa-solid fa-building-columns" />
+                    <span>Đang phát triển</span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            {/* TIMELINE ITEM ENDS */}
+            
           </ol>
         </div>
         {/* TIMELINE ENDS */}
