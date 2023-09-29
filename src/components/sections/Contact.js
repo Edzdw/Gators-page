@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">Contact</span>
-                Gators Team
+                +84933194886
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -50,7 +50,7 @@ const Contact = () => {
           <div className="animated-layer fade-in-up-animation fadeInUp wow">
             <i className="fa fa-share-nodes" />
             <span className="small-text">Mạng xã hội</span>
-                Telegram: @thegators.asia
+                Telegram: @thegatorsasia
             {/* <ul className="social">
               <li>
                 <a href="#">

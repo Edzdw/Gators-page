@@ -35,9 +35,9 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <p>Đừng <span class = "light-text"> ĐẶT CƯỢC CẢM XÚC </span> của bạn vào thị trường</p>
-                    <p>Nếu bạn không muốn nằm trong <span class = "light-text" > 95% NGƯỜI CHƠI THẤT BẠI. </span></p>
-                    <p>Hãy để <span class = "light-text" > THE GATORS GIÚP BẠN.  </span></p>
+                    <p>Đừng <span class = "light-text">ĐẶT CƯỢC CẢM XÚC</span> của bạn vào thị trường</p>
+                    <p>Nếu bạn không muốn nằm trong <span class = "light-text" >95% NGƯỜI CHƠI THẤT BẠI.</span></p>
+                    <p>Hãy để <span class = "light-text">THE GATORS GIÚP BẠN.</span></p>
                   </span>
                 </span>
               </li>
@@ -298,7 +298,7 @@ const About = () => {
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
-            
+            <li />
           </ol>
         </div>
         {/* TIMELINE ENDS */}
