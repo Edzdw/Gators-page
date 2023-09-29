@@ -699,6 +699,8 @@ span.sign-out {
 .about h2 span {
   display: block;
   overflow: hidden;
+  color: #8dff8d;
+
 }
 
 .about .infos {
