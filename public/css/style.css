@@ -672,6 +672,12 @@ span.sign-out {
   padding-left: 150px;
 }
 
+.light-text {
+  color: #8dff8d;
+  font-weight: bold;
+}
+
+
 .about img.my-photo {
   width: 380px;
   height: 470px;
@@ -684,7 +690,7 @@ span.sign-out {
   align-self: flex-start;
   font-size: 50px;
   line-height: 80px;
-  margin-top: 45px;
+  margin-top: 70px;
   margin-left: 40px;
   font-weight: 700;
   position: relative;
@@ -693,6 +699,7 @@ span.sign-out {
 .about h2 span {
   display: block;
   overflow: hidden;
+  color: #8dff8d;
 }
 
 .about .infos {
