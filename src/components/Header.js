@@ -78,7 +78,8 @@ const Header = () => {
                 <span id="blog-link">Blog</span>
               </li>
               <li>
-                {email ? <span id="network-link">Network</span> : <span id="sign-in" onClick={toggleSignInModal}>Sign In</span>}
+                <span> <a href="https://dashboard.gators.asia" id="sign-in">Sign In</a> </span>
+
               </li>
             </ul>
           </nav>
@@ -89,9 +90,7 @@ const Header = () => {
           <p>
             Email :<span> thegators.asia@gmail.com </span>
           </p>
-          <span id ="log-out" class = "sign-out" >
-              Logout
-          </span> 
+
         </div>
         {/* FREELANCE ENDS */}
       </div>
@@ -130,10 +129,9 @@ const Header = () => {
               </a>
             </li>
             <li>
-              {email ? <a href="#network">
-                <span>Network</span>
-              </a> : <a href="#network">
-                <span id="sign-in" onClick={toggleSignInModal}>Sign In</span>
+
+                  <span> <a href="https://dashboard.gators.asia" id="sign-in">Sign In</a> </span>
+
               </a>}
             </li>
           </ul>
