@@ -132,7 +132,7 @@ const Header = () => {
 
                   <span> <a href="https://dashboard.gators.asia" id="sign-in">Sign In</a> </span>
 
-              </a>}
+
             </li>
           </ul>
         </div>
