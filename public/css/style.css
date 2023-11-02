@@ -552,6 +552,17 @@ header .mobile-menu {
   display: none;
 }
 
+header #sign-in {
+  color: white;
+  text-decoration: none;
+  transition: 0.3;
+}
+
+#sign-in:hover {
+  color:#8dff8d ;
+
+}
+
 .mail {
   display: flex;
   align-items: center;
