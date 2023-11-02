@@ -353,6 +353,7 @@ ul {
   writing-mode: vertical-rl;
   transform: scale(-1, -1);
   height: 100vh;
+  color: #6ebfee;
 }
 
 .custom-title h3 {
